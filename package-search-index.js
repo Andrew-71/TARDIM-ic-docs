@@ -1,1 +1,1 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"su.a71.tardim_ic.tardim_ic"}];updateSearchResults();
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"su.a71.tardim_ic.tardim_ic"},{"l":"su.a71.tardim_ic.tardim_ic.command"}];updateSearchResults();
